@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVER="status.botox.bz"
+SERVER="raptornode.com"
 PORT=35601
 USER="s01"
 PASSWORD="some-hard-to-guess-copy-paste-password"
